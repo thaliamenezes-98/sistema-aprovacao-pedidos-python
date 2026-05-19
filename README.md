@@ -45,7 +45,6 @@ As decisões são tomadas utilizando estruturas condicionais (`if`, `elif`, `els
 
 ## ▶️ Como executar
 
-Clone o repositório:
 
 ```bash
-(https://github.com/thaliamenezes-98/sistema-aprovacao-pedidos-python/tree/main)
+https://github.com/thaliamenezes-98/sistema-aprovacao-pedidos-python/tree/main

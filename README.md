@@ -48,4 +48,4 @@ As decisões são tomadas utilizando estruturas condicionais (`if`, `elif`, `els
 Clone o repositório:
 
 ```bash
-git clone [LINK_DO_REPOSITORIO](https://github.com/thaliamenezes-98/sistema-aprovacao-pedidos-python/tree/main)
+git clone (https://github.com/thaliamenezes-98/sistema-aprovacao-pedidos-python/tree/main)
